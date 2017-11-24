@@ -1,0 +1,5 @@
+C:\TFS\helloci\hellocilib\bin\Debug\hellocilib.dll
+C:\TFS\helloci\hellocilib\bin\Debug\hellocilib.pdb
+C:\TFS\helloci\hellocilib\obj\Debug\hellocilib.csprojResolveAssemblyReference.cache
+C:\TFS\helloci\hellocilib\obj\Debug\hellocilib.dll
+C:\TFS\helloci\hellocilib\obj\Debug\hellocilib.pdb

@@ -1,0 +1,8 @@
+C:\TFS\helloci\helloci\bin\Debug\helloci.exe.config
+C:\TFS\helloci\helloci\bin\Debug\helloci.exe
+C:\TFS\helloci\helloci\bin\Debug\helloci.pdb
+C:\TFS\helloci\helloci\obj\Debug\helloci.csprojResolveAssemblyReference.cache
+C:\TFS\helloci\helloci\obj\Debug\helloci.exe
+C:\TFS\helloci\helloci\obj\Debug\helloci.pdb
+C:\TFS\helloci\helloci\bin\Debug\hellocilib.dll
+C:\TFS\helloci\helloci\bin\Debug\hellocilib.pdb
